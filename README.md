@@ -15,7 +15,7 @@ Paragraf nr 3 </br> hehe
 >>>>>Kac
 >>>>>>i ja
 
-###Zagnieżdżona lista numeryczna? Tak
+### Zagnieżdżona lista numeryczna? Tak
 
 1. Jeden 
    1. jeden ale po rzymsku
@@ -24,7 +24,7 @@ Paragraf nr 3 </br> hehe
 3. Trzy
     3. trzy ale po rzymsku
 
-###Uuuu a teraz nienumeryczna
+### Uuuu a teraz nienumeryczna
 
 + owocki
   - jabłuszko
