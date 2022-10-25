@@ -18,11 +18,11 @@ Paragraf nr 3 </br> hehe
 ### Zagnieżdżona lista numeryczna? Tak
 
 1. Jeden 
-   1. jeden ale po rzymsku
+   1.1. jeden ale po rzymsku
 2. Dwa
-   2. dwa ale po rzymsku
+   2.1. dwa ale po rzymsku
 4. Trzy
-   3. trzy ale po rzymsku
+   3.1. trzy ale po rzymsku
 
 ### Uuuu a teraz nienumeryczna
 
