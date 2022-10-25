@@ -46,4 +46,4 @@ else:
 
 Tutaj klasyczek `print("Hello World!")`, tak o w tekście zagnieżdżony
 
-![Pikczer](panda.jpg "Pandaaaaa")
+![Pikczer](panda.jpg)
