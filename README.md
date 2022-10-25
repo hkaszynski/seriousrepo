@@ -21,8 +21,8 @@ Paragraf nr 3 </br> hehe
    1. jeden ale po rzymsku
 2. Dwa
    2. dwa ale po rzymsku
-3. Trzy
-    3. trzy ale po rzymsku
+4. Trzy
+   3. trzy ale po rzymsku
 
 ### Uuuu a teraz nienumeryczna
 
