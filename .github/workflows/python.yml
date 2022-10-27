@@ -1,6 +1,8 @@
-n = 5
-
-for i in range(0, n, 1):
-    print((n-i)*" ", (2*i+1)*"*")
-
-print((n-1)*" ", "|_|")
+name: GitHub Actions Demo
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+on: [push]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: python pliczek.py
