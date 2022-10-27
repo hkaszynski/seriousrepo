@@ -1,6 +1,6 @@
 n = 5
 
-for i in range(0, n, 1):
+for i in range(n):
     print((n-i)*" ", (2*i+1)*"*")
 
 print((n-1)*" ", "|_|")
