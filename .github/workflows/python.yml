@@ -5,4 +5,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: python .github/workflows/pliczek.py
+      - run: python pliczek.py
