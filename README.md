@@ -35,7 +35,7 @@ Paragraf nr 3 </br> hehe
     - pomidorek
     - ziemniaczek
 
-###A teraz kodzik:
+### A teraz kodzik:
 ```py
 x = int(input("podaj x: ))
 if x > 0:
