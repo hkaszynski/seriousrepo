@@ -14,4 +14,4 @@ jobs:
       - name: install
         run: |
           pip install -U pytest
-      - run: python3 -m unittest test.py
+      - run: python3 -m unittest pliczek.py
